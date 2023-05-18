@@ -13,9 +13,6 @@ As an inquisitive and curious person, I am constantly seeking to broaden my hori
 ## 🌐 Socials:
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/jenilchudgar) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/jenilchudgar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/jenilchudgar) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=WhatsApp&logoColor=white)](https://wa.me/+917313545558)
 
-[![WhatsApp Link]([https://example.com/your-image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Fwhatsapp-logo-png&psig=AOvVaw2tI-0NXNYTNMW_m-qs2upf&ust=1684477986819000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjzjtOf_v4CFQAAAAAdAAAAABAW))](https://wa.me/+917313545558)
-
-LINK: [https://wa.me/+917313545558](https://wa.me/+917313545558)
 
 
 # 💻 Tech Stack:
