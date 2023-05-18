@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [github.com/jenilchudgar](github.com/jenilchudgar)
 
+- 💬 Ask me about **C,C++,Python**
+
 - 📫 How to reach me **jenilchudgarfamily@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
