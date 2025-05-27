@@ -7,7 +7,7 @@ Hey there 👋!
 As an inquisitive and curious person, I am constantly seeking to broaden my horizon. From a young age itself, I had developed a keen interest in programming. This has helped me think critically and develop problem solving skills. I have a penchant interest in political geography that drives me to learn about every country, their flags and relations between them. This has enabled me to understand decision making, leadership and diplomacy. I am committed to maximizing this opportunity, by developing my personality to the greatest. Overall, I see myself as an enthusiastic student, who is always approachable to anyone.<br><br>
 
 ## 🏫 School Stats
-* Class: 8G
+* Class: 10 G
 * School: The Shishukunj International School, Indore
 * State: Madhya Pradesh
 * Country: India
