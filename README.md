@@ -4,13 +4,7 @@
 ## 💫 About Me:
 Hey there 👋!  
 
-As an inquisitive and curious person, I am constantly seeking to broaden my horizon. From a young age itself, I had developed a keen interest in programming. This has helped me think critically and develop problem solving skills. I have a penchant interest in political geography that drives me to learn about every country, their flags and relations between them. This has enabled me to understand decision making, leadership and diplomacy. I am committed to maximizing this opportunity, by developing my personality to the greatest. Overall, I see myself as an enthusiastic student, who is always approachable to anyone.<br><br>
-
-## 🏫 School Stats
-* Class: 10 G
-* School: The Shishukunj International School, Indore
-* State: Madhya Pradesh
-* Country: India
+I am Class 10 student passionate about problem-solving and software development. Currently building projects using Python and Django. Exploring systems, automation, and backend development. Primarily, focused on strengthening DSA and core computer science fundamentals.
 
 ## 🌐 Socials:
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/jenilchudgar) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/jenilchudgar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/jenilchudgar) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=WhatsApp&logoColor=white)](https://wa.me/+917313545558)
@@ -29,6 +23,4 @@ As an inquisitive and curious person, I am constantly seeking to broaden my hori
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jenilchudgar&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jenilchudgar) 
+ 
